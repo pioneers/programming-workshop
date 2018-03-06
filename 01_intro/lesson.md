@@ -35,6 +35,8 @@ We'll get a `SyntaxError` on `line 1`.
                              ^
     SyntaxError: invalid syntax
     
+we can fix our `SyntaxError` by keeping our print statements on separate lines.
+
 ### What else?
 
 What else can we print? Try printing a number:
