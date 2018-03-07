@@ -4,7 +4,7 @@
 
 In Lesson 1 we made the screen display `Hello World!` using the statement `print("Hello World!")`. 
 
-`"Hello World!"` is an example of a `str` short for string. A string is another data type. Strings are similar to text - they are a group of letters or characters. We mark strings by surrounding them with `"`quotation marks`"` .
+`"Hello World!"` is an example of a `str` short for string. A string is another data type. Strings are similar to text - they are a group of letters or characters that are **strung** together. We mark strings by surrounding them with `"`quotation marks`"` .
 
 Example Strings:
 
