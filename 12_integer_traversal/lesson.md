@@ -136,3 +136,16 @@ Some code to get you started:
 		# Your code below
 		pass
 		# Your code above
+
+### What's next?
+
+At Game Day, we will be releasing more information about how programming will play an important role in this year's game. You can check [piazza](http://piazza.com/pioneers_in_engineering/spring2018/pierc) for the latest updates there.
+
+The content we've gone over in our workshop is only a small slice of computer science. If you'd like to continue to improve your skills in computer science, there's a number of good ways.
+
+[Codecademy](https://www.codecademy.com/learn/learn-python) is a great next step and will have you working through small challenges as you learn how to use Python.
+
+I recommend reading and working your way through the website [Think Python](http://greenteapress.com/wp/think-python-2e/) by [Allen B. Downey](http://greenteapress.com/). This website does a great job of learning how to think as a computer scientist while building your experience with Python.
+
+Whereever you go, you can continue to ask questions on Piazza for our help.
+
