@@ -2,7 +2,7 @@
 
 ## Lesson 5 - Variables
 
-This section was adapted with modifications from [Think Python](http://greenteapress.com/thinkpython2) by [Allen B. Downey](http://greenteapress.com/wp/) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).
+This section was adapted with modifications from [Think Python](http://greenteapress.com/thinkpython2) by [Allen B. Downey](http://greenteapress.com/wp/) ([CC BY 3.0](https://creativecommons.org/licenses/by-nc/3.0/)).
 
 One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value.
 
