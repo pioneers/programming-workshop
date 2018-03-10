@@ -2,7 +2,7 @@
 
 This section was adapted with modifications from [Think Python](http://greenteapress.com/thinkpython2) by [Allen B. Downey](http://greenteapress.com/wp/) ([CC BY 3.0](https://creativecommons.org/licenses/by-nc/3.0/)).
 
-## Lesson - While Loops
+## Lesson 9 - While Loops
 
 Computers are often used to automate repetitive tasks. Repeating identical or similar tasks without making errors is something that computers do well and people do poorly. In a computer program, repetition is also called iteration.
 

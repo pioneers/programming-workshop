@@ -30,6 +30,6 @@ else:
     print("Bears!")
 ```
 
-Notice that variables not only can store string and integers, but also can store booleans! In this code block, we can see that we have two new python words: `if` and `else`. What this says is "If `x` is True, then run the code indented under the if block, ELSE run the code indented unter the else block. The value of `x` (True or False) actually affects what parts of the code are run! 
+Notice that variables not only can store string and integers, but also can store booleans! In this code block, we can see that we have two new python words: `if` and `else`. What this says is "If `x` is True, then run the code indented under the if block, ELSE run the code indented under the else block. The value of `x` (True or False) actually affects what parts of the code are run! 
 
 Now lets put it all together. Look at the code starting at line 5. Change the values of `x` and `y` so that the phrase "Pioneers in Engineering" is printed out. (Hint: The statement after the word `if` just needs to be a boolean value, either `True`, a variable, or some comparison)

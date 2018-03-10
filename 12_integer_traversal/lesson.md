@@ -1,6 +1,6 @@
 # Intro to Programming Workshop
 
-## Lesson 9 - Integer Traversal
+## Lesson 10 - Integer Traversal
 
 We're going to take a look at how we might be able to use all the things we've learned so far to play with numbers.
 

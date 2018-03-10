@@ -1,6 +1,6 @@
 # Intro to Programming Workshop
 
-## Lesson 10 - Functions
+## Lesson 8 - Functions
 
 This section was adapted with modifications from [Think Python](http://greenteapress.com/thinkpython2) by [Allen B. Downey](http://greenteapress.com/wp/) ([CC BY 3.0](https://creativecommons.org/licenses/by-nc/3.0/)).
 
@@ -13,7 +13,7 @@ We have already seen one example of a function call:
 	> type(42)
 	<class 'int'>
 
-The name of the function is type. The expression in parentheses is called the argument of the function. The result, for this function, is the type of the argument.
+The name of the function is type. The expression in parentheses is called the argument of the function. The argument of a function is als called the input into the function. The result, for this function, is the type of the argument.
 
 It is common to say that a function “takes” an argument and “returns” a result. The result is also called the return value.
 
@@ -201,8 +201,6 @@ The value None is not the same as the string 'None'. It is a special value that 
 
 	> type(None)
 	<class 'NoneType'>
-
-The functions we have written so far are all void. We will start writing fruitful functions in a few chapters.
 
 ###  Why functions?
 
