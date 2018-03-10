@@ -9,11 +9,9 @@ We talked about math operations like `+`, `-`, `*`, and `/` in Lesson 3. We will
 We can take the exponent of a number using `**`
 
     > 3**2
-    9.0
+    9
 
-The code above reads as `3` to the power of `2` which equals `9.0`.
-
-A special note, the exponent returns a `float`, even if both inputs are `int`s.
+The code above reads as `3` to the power of `2` which equals `9`.
 
 Try it out!
 
