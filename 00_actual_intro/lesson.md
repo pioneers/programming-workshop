@@ -44,6 +44,8 @@ Click on the bottom left box and type in `print("Hello World!")` and then press 
 
 When you finish each lesson or checkpoint, you can submit with the `submit` button on the top right. We will give you feedback on the program that you've written in the top left box. If you get stuck, ask a friend or PiE staff for help!
 
+Make sure you print only the things we ask for with your submission.
+
 ### Got it?
 
 When you're ready, hit `submit` and continue on to the Lesson 1.

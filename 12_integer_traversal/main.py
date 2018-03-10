@@ -12,6 +12,6 @@ def reverse_digits(num):
     pass
     # Your code above
 
-reverse_digits(2)
-reverse_digits(1234)
-reverse_digits(900000)
+print(reverse_digits(2))
+print(reverse_digits(1234))
+print(reverse_digits(900000))
