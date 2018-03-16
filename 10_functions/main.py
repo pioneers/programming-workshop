@@ -41,10 +41,10 @@ set_right_motor(0)
 
 # We can use these two new functions to control the new motors
 def set_back_left_motor(speed):
-    print("Set left motor to", speed)
+    print("Set back left motor to", speed)
 
 def set_back_right_motor(speed):
-    print("Set right motor to", speed)
+    print("Set back right motor to", speed)
 
 # To reimplement the motion of our robot, we'd have to use twice as many lines.
 # Then what if we added even more motors? This will take more and more work to
