@@ -1,3 +1,4 @@
 def next_power(num):
-    return num
+	#YOUR CODE HERE
+    return 0
 
