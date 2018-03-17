@@ -1,3 +1,4 @@
 def smallest_prime_fact(num):
-    return num
+    #YOUR CODE HERE
+    return 0
 
