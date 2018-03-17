@@ -1,8 +1,4 @@
-import unittest
-from main import next_power
-
 class TestNextPower(unittest.TestCase):
-
     def test_two(self):
         self.assertEqual(next_power(2), 2)
 
@@ -14,6 +10,3 @@ class TestNextPower(unittest.TestCase):
 
     def test_zero(self):
         self.assertEqual(next_power(0), 1)
-
-if __name__ == '__main__':
-    unittest.main()
